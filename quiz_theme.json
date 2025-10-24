@@ -1,0 +1,144 @@
+{
+	"defaults":
+    {
+        "font":
+        {
+            "name": "ipaexg",
+            "point_size": 16,
+            "regular_path": "IPAexfont00401/ipaexg.ttf",
+            "bold_path": "IPAexfont00401/ipaexg.ttf",
+            "italic_path": "IPAexfont00401/ipaexg.ttf"
+        }
+    },
+	"window": {
+		"font": { "name": "ipaexg", "size": "20" },
+		"colours": { 
+			"dark_bg": "#F0F4F8", 
+			"title_bar": "#B0C4DE", 
+			"title_text": "#1A202C" 
+		},
+		"title_bar": { "font": { "name": "ipaexg", "size": "20" } }
+	},
+	"message_window": {
+		"font": { "name": "ipaexg", "size": "35" },
+		"title_bar": { "font": { "name": "ipaexg", "size": "20" } }
+	},
+
+	"@quiz_window": {
+		"font": { "name": "ipaexg", "size": "20" },
+		"colours": { 
+			"dark_bg": "#FFFFFF",
+			"title_bar": "#4A90E2",
+			"title_text": "#FFFFFF" 
+		},
+		"title_bar": { "font": { "name": "ipaexg", "size": "20" } }
+	},
+
+	"@quiz_label": { "font": { "name": "ipaexg", "size": "20" }, "colours": { "normal_text": "#2D3748" } },
+	"@quiz_entry": { "font": { "name": "ipaexg", "size": "20" } },
+	"@quiz_button": { "font": { "name": "ipaexg", "size": "20" } },
+	"#quiz_question_label": { "font": { "name": "ipaexg", "size": "28" }, "colours": { "normal_text": "#1A202C" } },
+	"#quiz_answer_entry": { "font": { "name": "ipaexg", "size": "24" } },
+	"#answered_countries_label": { 
+		"font": { "name": "ipaexg", "size": "20" }, 
+		"colours": { "normal_text": "#4A5568" }
+	},
+
+	"#submit_answer_button": { 
+		"colours": { 
+			"normal_bg": "#007bff", 
+			"hovered_bg": "#0069d9", 
+			"normal_text": "#FFFFFF" 
+		} 
+	},
+	"#quiz_button": { "colours": { "normal_bg": "#28a745", "hovered_bg": "#218838", "normal_text": "#ffffff" } },
+	
+	"#flag_quiz_window":{
+		"colours": { 
+			"dark_bg": "#FFFFFF", 
+			"title_bar": "#4A90E2", 
+			"title_text": "#FFFFFF" 
+		}
+	},
+
+	"@correct_message_window": {
+		"colours": {
+			"dark_bg": "#E0FFE0",
+			"title_bar": "#008000",
+			"title_text": "#FFFFFF"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@correct_message_window_#text_box": {
+		"colours": {
+			"dark_bg": "#E0FFE0",
+			"normal_text": "#000000"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@wrong_message_window": {
+		"colours": {
+			"dark_bg": "#FFE0E0",
+			"title_bar": "#A00000",
+			"title_text": "#FFFFFF"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@wrong_message_window_#text_box": {
+		"colours": {
+			"dark_bg": "#FFE0E0",
+			"normal_text": "#000000"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@clear_message_window": {
+		"colours": {
+			"dark_bg": "#FFFFD0",
+			"title_bar": "#DAA520",
+			"title_text": "#000000"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@clear_message_window_#text_box": {
+		"colours": {
+			"dark_bg": "#FFFFD0",
+			"normal_text": "#000000"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@info_message_window": {
+		"colours": {
+			"dark_bg": "#F0F0F0",
+			"title_bar": "#404040",
+			"title_text": "#FFFFFF"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@info_message_window_#text_box": {
+		"colours": {
+			"dark_bg": "#F0F0F0",
+			"normal_text": "#000000"
+		},
+		"font": { "name": "ipaexg", "size": "20" }
+	},
+	"@message_ok_button": {
+		"colours": {
+			"normal_bg": "#606060",
+			"hover_bg": "#707070",
+			"normal_text": "#FFFFFF"
+		},
+		"font": {
+			"name": "ipaexg",
+			"size": "18"
+		}
+	},
+
+	"fonts": [
+        {
+            "id": "ipaexg_14", 
+            "name": "IPAexGothic", 
+            "point_size": 14,
+            "regular_path": "C:\\PythonProjects\\MyNotebook\\rubik_cube\\IPAexfont00401\\ipaexg.ttf"
+        }
+	]
+}
