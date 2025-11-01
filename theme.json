@@ -1,0 +1,38 @@
+{
+	"defaults": {
+		"font": {
+			"name": "noto_sans_jp",
+			"size": "24"
+		}
+	},
+	"#title_label": {
+		"font": { "name": "noto_sans_jp", "size": "80" }
+	},
+	"@difficulty_button": {
+		"font": { "name": "noto_sans_jp", "size": "72" },
+		"misc": { "border_radius": "15" }
+	},
+	"window": {
+		"font": { "name": "noto_sans_jp", "size": "24" },
+		"colours": { "dark_bg": "#25292e", "title_bar": "#3c4148", "title_text": "#ffffff" },
+		"title_bar": { "font": { "name": "noto_sans_jp", "size": "24" } }
+	},
+	"message_window": {
+		"font": { "name": "noto_sans_jp", "size": "24" }
+	},
+	"#back_button": { "colours": { "normal_bg": "#007bff", "hovered_bg": "#0056b3", "normal_text": "#ffffff" } },
+	"#easy_button": { "colours": { "normal_bg": "#28a745", "hovered_bg": "#218838", "normal_text": "#ffffff" } },
+	"#medium_button": { "colours": { "normal_bg": "#ffc107", "hovered_bg": "#e0a800", "normal_text": "#212529" } },
+	"#hard_button": { "colours": { "normal_bg": "#dc3545", "hovered_bg": "#c82333", "normal_text": "#ffffff" } },
+	"#quit_button": { "colours": { "normal_bg": "#6c757d", "hovered_bg": "#5a6268", "normal_text": "#ffffff" } },
+	"#answer_button": { "colours": { "normal_bg": "#dc3545", "hovered_bg": "#c82333", "normal_text": "#ffffff" } },
+	
+	"@game_button": { 
+		"colours": { "normal_bg": "#696969", "hovered_bg": "#CFCFCF", "active_bg": "#EFEFEF" } ,
+		"font": { "name": "noto_sans_jp", "size": "24" }
+	},
+	"@rotate_button": { 
+		"colours": { "normal_bg": "#696969", "hovered_bg": "#CFCFCF", "active_bg": "#EFEFEF" } ,
+		"font": { "name": "noto_sans_jp", "size": "18" }
+	}
+}
